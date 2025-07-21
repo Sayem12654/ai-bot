@@ -1,0 +1,4 @@
+# এই ফাইলটি config.py নামে সেভ করুন
+TELEGRAM_TOKEN = "8014597820:AAGgAhbH7keHxwlaHMJLD_Y3wrri0MiTiik"
+COHERE_API_KEY = "4fBoLOX8GzTz2moqmZfZDdMhPwD31IQbI0Cptmgi"
+BLOGGER_ID = "3485902611847122452"
